@@ -1,8 +1,5 @@
 # Movie-Genie
 Movie Genie helps a user to search about different movies from all over the world. A user can view information about different movies like budget, cast, etc..
-# Codechimps
-
-CodeChimps provides you free access to hundreds of articles and blogs posted by programmers around the world. Sign-Up and Log-in to create and publish your own blog to showcase your programming knowledge!
 
 ## View Live App
 [On Heroku](https://movieeeeeee.herokuapp.com/)
